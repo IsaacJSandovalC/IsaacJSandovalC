@@ -68,7 +68,7 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 **🐱 My GitHub Data** 
 
-> 🏆 241 Contributions in the Year 2022
+> 🏆 259 Contributions in the Year 2022
  > 
 > 📦 52.6 kB Used in GitHub's Storage 
  > 
