@@ -1,10 +1,13 @@
 
-<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="logo.png" /></a></p>
+<p align="center">
+    <img width="80%" alt="Hello, I'm Anurag. I do open source!" src="logo.png">
+</p>
 
 
-
+<p align="center">
 | <a href="https://github.com/IsaacJSandovalC"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacJSandovalC&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/IsaacJSandovalC"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJSandovalC&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
+</p>
 
 
 
