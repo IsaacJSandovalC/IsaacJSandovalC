@@ -9,7 +9,6 @@ jobs:
   update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
       - name: waka-box
         uses: matchai/waka-box@v4.0.5
         with:
