@@ -64,8 +64,6 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 259 Contributions in the Year 2022
