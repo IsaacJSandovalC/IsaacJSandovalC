@@ -10,7 +10,12 @@
 
 ### Languages y herramientas conocidas:
 
+
 <a href="https://www.bloodshed.net/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.png" alt="c++" height="42px"/> </a> 
+
+<a href="https://lenguajehtml.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.png" alt="HTML" height="42px"/> </a> 
+
+<a href="https://lenguajecss.com/css/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.png" alt="CSS" height="42px"/> </a> 
 
 
 
