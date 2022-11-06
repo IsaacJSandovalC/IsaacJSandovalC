@@ -1,9 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap" rel="stylesheet">
-
-<p align="center" Style="font-family: 'Fira Code', monospace;">
-    Hola
-    <a href="https://github.com/IsaacJSandovalC"><img width="80%"></a>
-</p>
 
 <!--
 **IsaacJSandovalC/IsaacJSandovalC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-- Hola!! Soy Isaac Sandoval, desarrollador Back-End Jr. especializado en Python🐍
+# Hola!! Soy Isaac Sandoval, desarrollador Back-End Jr. especializado en Python🐍
 
 <a href="https://github.com/IsaacJSandovalC">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJSandovalC&layout=compact&theme=buefy&hide_border=true" />
