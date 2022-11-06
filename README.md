@@ -8,7 +8,7 @@
 | ------------- | ------------- |
 
 
-## Languages y herramientas conocidas:
+### Languages y herramientas conocidas:
 
 <p aling="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
@@ -25,7 +25,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>
 </p>
 
-## Languages y frameworks por aprender o en progreso de aprendisaje:
+### Languages y frameworks por aprender o en progreso de aprendisaje:
 <p aling="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" width="40" height="40"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaSacript" width="40" height="40"/>
