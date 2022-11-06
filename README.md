@@ -29,7 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaSacript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="GIT" width="40" height="40"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="GIT" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" style="background-color:red;" title="GIT" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" background-color= "red" title="GIT" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="GIT" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="GIT" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="GIT" width="40" height="40"/>
