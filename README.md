@@ -1,5 +1,5 @@
 <p aling="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
+    <img src="logo.png" title="logo"/>
 </p> 
 
 
