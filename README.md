@@ -1,6 +1,5 @@
-<p aling="center">
-    <img src="logo.png" title="logo"/>
-</p> 
+
+<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="logo.png" /></a></p>
 
 
 
