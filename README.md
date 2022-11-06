@@ -1,6 +1,5 @@
 <p align="center">
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap" rel="stylesheet">
-    <a href="https://github.com/IsaacJSandovalC"><img width="80%" alt="Hello, I'm Anurag. I do open source!" font-family: 'Fira Code', monospace;></a>
+    <a href="https://github.com/IsaacJSandovalC"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap", monospace;></a>
 </p>
 
 <!--
