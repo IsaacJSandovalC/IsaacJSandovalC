@@ -68,23 +68,11 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 236 Contributions in the Year 2022
- > 
-> 📦 52.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    60 commits     █████████░░░░░░░░░░░░░░░░   35.71% 
-🌆 Daytime    44 commits     ██████░░░░░░░░░░░░░░░░░░░   26.19% 
+🌞 Morning    59 commits     ████████░░░░░░░░░░░░░░░░░   35.12% 
+🌆 Daytime    45 commits     ██████░░░░░░░░░░░░░░░░░░░   26.79% 
 🌃 Evening    41 commits     ██████░░░░░░░░░░░░░░░░░░░   24.4% 
 🌙 Night      23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
 
@@ -106,10 +94,15 @@ Sunday       110 commits    ████████████████░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: America/Panama
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -127,6 +120,10 @@ JavaScript               1 repo              ████░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/IsaacJSandovalC/IsaacJSandovalC/master/charts/bar_graph.png) 
 
 
  Last Updated on 06/11/2022
