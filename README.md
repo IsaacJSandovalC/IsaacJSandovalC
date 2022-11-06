@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="80%" alt="Hello, I'm Anurag. I do open source!" src="logo.png">
+    <img width="80%" alt="Hello, I'm Anurag. I do open source!" src="logo.png" width="1000">
 </p>
 
 
