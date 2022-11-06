@@ -18,9 +18,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON"  width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="GIT" width="40" height="40"/>
 </p>
 
