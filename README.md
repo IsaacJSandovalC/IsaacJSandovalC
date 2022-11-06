@@ -25,6 +25,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>
 </p>
 
+<br>
+
 ### Languages y frameworks por aprender o en progreso de aprendisaje:
 <p aling="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" width="40" height="40"/>    
