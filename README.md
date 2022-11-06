@@ -11,11 +11,11 @@
 ### Languages y herramientas conocidas:
 <p aling="left">
     <a>
-        <img href="https://lenguajehtml.com/" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
-        <img href="https://lenguajecss.com/css/" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>
-        <img href="https://www.bloodshed.net/" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.png" title="C++" width="45" height="40"/>  
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>
+        <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.png" title="C++" width="45" height="40"/> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>  
-        <img href="https://pytorch.org/" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" title="Python"  width="45" height="40"/> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  width="45" height="40"/> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" width="40" height="40"/> 
