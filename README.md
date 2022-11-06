@@ -64,60 +64,6 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    54 commits     ████████░░░░░░░░░░░░░░░░░   32.14% 
-🌆 Daytime    50 commits     ███████░░░░░░░░░░░░░░░░░░   29.76% 
-🌃 Evening    41 commits     ██████░░░░░░░░░░░░░░░░░░░   24.4% 
-🌙 Night      23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.55% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-Saturday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-Sunday       110 commits    ████████████████░░░░░░░░░   65.48%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Panama
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in CSS** 
-
-```text
-CSS                      2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/IsaacJSandovalC/IsaacJSandovalC/master/charts/bar_graph.png) 
-
-
- Last Updated on 06/11/2022
 <!--END_SECTION:waka-->
 
 
