@@ -28,13 +28,12 @@ Here are some ideas to get you started:
 </p></a>
 
 
-[![Instagram: rodrigo_ivan1994](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_ivan1994/)
-
-[![Twitter: TesMov_1994](https://img.shields.io/twitter/follow/TesMov_1994?style=social)](https://www.twitter.com/TesMov_1994)
-
 [![GitHub: RIvanCF](https://img.shields.io/github/followers/RIvanCF?style=social)](https://github.com/RIvanCF)
 
 [![Linkedin: Rodrigo Ivan](https://img.shields.io/badge/-RodrigoIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rodrigo-iv%C3%A1n-cruz-flores-497792240/)](https://www.linkedin.com/in/rodrigo-iv%C3%A1n-cruz-flores-497792240/)
+
+
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RIvanCF&theme=radical&hide_border=true&locale=es)](https://git.io/streak-stats)
 
