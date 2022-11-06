@@ -1,4 +1,8 @@
-## Hola, mi nombre es Isaac Sandoval 😄
+<p aling="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
+</p> 
+
+
 
 | <a href="https://github.com/IsaacJSandovalC"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacJSandovalC&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/IsaacJSandovalC"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJSandovalC&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
