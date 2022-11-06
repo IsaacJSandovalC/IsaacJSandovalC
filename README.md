@@ -18,8 +18,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON"  width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSC" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="GIT" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="GIT" width="40" height="40"/>
 </p>
 
 **Languages y frameworks por aprender o en progreso de aprendisaje:**
@@ -27,4 +29,10 @@
 
 <p aling="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaSacript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="GIT" width="40" height="40"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="GIT" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="GIT" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="GIT" width="40" height="40"/>
+    https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg
 </p>
