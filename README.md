@@ -20,7 +20,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Languages y erramientas conocidas:**
+
+
+- Hola!! Soy Isaac Sandoval, desarrollador Back-End Jr. especializado en Python🐍
+
+<a href="https://github.com/IsaacJSandovalC">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJSandovalC&layout=compact&theme=buefy&hide_border=true" />
+</a> 
+
+
+**Languages y herramientas conocidas:**
 
 <p aling="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
@@ -32,12 +41,3 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" width="40" height="40"/> 
 </p> 
-
-
-
-<a href="https://github.com/IsaacJSandovalC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacJSandovalC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
-</a> 
-<a href="https://github.com/IsaacJSandovalC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJSandovalC&layout=compact&theme=buefy&hide_border=true" />
-</a> 
