@@ -10,7 +10,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: IsaacJSandovalC/IsaacJSandovalC@main
+      - uses: IsaacJSandovalC/IsaacJSandovalC@workflows
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
