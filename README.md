@@ -1,5 +1,8 @@
-<p align="center">
-    <a href="https://github.com/IsaacJSandovalC"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap", monospace;></a>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap" rel="stylesheet">
+
+<p align="center" Style="font-family: 'Fira Code', monospace;">
+    Hola
+    <a href="https://github.com/IsaacJSandovalC"><img width="80%"></a>
 </p>
 
 <!--
@@ -17,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Languages y erramientas conocidas:**
 
 <p aling="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
