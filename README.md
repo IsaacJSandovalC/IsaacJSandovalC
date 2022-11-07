@@ -67,6 +67,37 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 ## 📚 General Stats and lenguajes
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 299 Contributions in the Year 2022
+ > 
+> 📦 86.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   10 mins             ███████████████████████░░   93.25% 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.75%
+
+🔥 Editors: 
+IntelliJ                 10 mins             ███████████████████████░░   91.87% 
+VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+
+💻 Operating System: 
+Mac                      11 mins             █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 07/11/2022 09:18:36 UTC
 <!--END_SECTION:waka-->
 
 
