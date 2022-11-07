@@ -1,16 +1,12 @@
 name: Waka Readme Stats
 
 on:
-  push:
-    branches: [master]
-  pull_request:
-    branches: [master]
   schedule:
-    - cron: '0 12 * * *'
-
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: waka-readme-stats
     runs-on: ubuntu-latest
     steps:
       - uses: IsaacJSandovalC/waka-readme-stats@master
