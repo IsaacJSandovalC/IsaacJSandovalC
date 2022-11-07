@@ -64,6 +64,11 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
