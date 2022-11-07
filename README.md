@@ -19,6 +19,7 @@
 ## Sobre mi!  
 Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad Interameriacana de Panamá una lincenciatura en Sistemas, actualmente me estoy ceritificando como desarrollador Python e inteligencia artificial  
 
+<br/>  
 
 ## Tecnologias que manejo:  
 <div align="left">  
