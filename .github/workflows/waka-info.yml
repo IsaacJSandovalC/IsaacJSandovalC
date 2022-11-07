@@ -9,7 +9,7 @@ jobs:
     name: waka-readme-stats
     runs-on: ubuntu-latest
     steps:
-      - uses: IsaacJSandovalC/waka-readme-stats@master
+      - uses: IsaacJSandovalC/waka-read-time@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
