@@ -71,6 +71,8 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
 ## 📚 General Stats and lenguajes
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
 ```text
 💬 Programming Languages: 
 Python                   10 mins             ███████████████████████░░   93.25% 
@@ -87,7 +89,7 @@ Mac                      11 mins             ███████████�
 ```
 
 
- Last Updated on 07/11/2022 09:18:36 UTC
+ Last Updated on 07/11/2022 14:52:01 UTC
 <!--END_SECTION:waka-->
 
 
