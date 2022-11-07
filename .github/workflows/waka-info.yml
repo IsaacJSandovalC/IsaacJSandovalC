@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: IsaacJSandovalC/waka-read-time@master
         with:
-          WAKATIME_API_KEY: 6ebb26d5-0b1a-47be-8a5e-e6fb5be506d5
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
