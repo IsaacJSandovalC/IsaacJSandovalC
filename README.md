@@ -76,7 +76,6 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
  > 
 > 🔑 0 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
 
 
  Last Updated on 07/11/2022
