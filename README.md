@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100%" alt="Im isaac sandoval" src="logo.gif">
+    <img width="100%" alt="Im isaac sandoval" src="logoBG.gif">
 </p>
 
 
