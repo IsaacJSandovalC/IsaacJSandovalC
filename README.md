@@ -16,12 +16,12 @@
 
 
 
-## Sobre mi!  
+## 😄 Sobre mi!  
 Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad Interameriacana de Panamá una lincenciatura en Sistemas, actualmente me estoy ceritificando como desarrollador Python e inteligencia artificial  
 
 <br/>  
 
-## Tecnologias que manejo:  
+## 🧑🏽‍💻 Tecnologias que manejo:  
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
@@ -38,7 +38,7 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 <br/>  
 
 
-## Tecnologias por aprender o en proceso de aprendisaje:  
+## 🖥️ Tecnologias por aprender o en proceso de aprendisaje:  
 <div align="left">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" /></a>  
@@ -52,7 +52,7 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 <br/>  
 
-## Github Stats 
+## 🔥 Github Stats 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=IsaacJSandovalC&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
@@ -64,6 +64,7 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 </td></tr></table>  
 
 <br/>  
+
 ## 📚 General Stats and lenguajes
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
