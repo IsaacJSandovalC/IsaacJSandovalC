@@ -16,13 +16,13 @@
 
 
 
-## 😄 Sobre mi!  
-Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad Interameriacana de Panamá una lincenciatura en Sistemas, actualmente me estoy ceritificando como desarrollador Python e inteligencia artificial  
+## 😄 About me!  
+Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad Interameriacana de Panamá a degree in Systems, I'm currently certifying as a Python developer and artificial intelligence. I plan to specialize in back end to later become a full stack developer.
 
 <br/>  
 
 
-## 🧑🏽‍💻 Tecnologias que manejo:  
+## 🧑🏽‍💻 Known tools:  
 
 
 <div align="left"> 
@@ -41,7 +41,7 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 <br/>  
 
 
-## 🖥️ Tecnologias por aprender o en proceso de aprendisaje:  
+## 🖥️ Technologies to be learned or in the process of being learned:  
 
 
 <div align="left">  
