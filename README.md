@@ -78,18 +78,6 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
  > 
 📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 
  Last Updated on 07/11/2022
 <!--END_SECTION:waka-->
