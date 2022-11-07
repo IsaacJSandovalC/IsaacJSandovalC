@@ -49,7 +49,7 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 <br/>  
 
-## Github Stats  
+## Github Stats 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=IsaacJSandovalC&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
@@ -62,6 +62,7 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 <br/>  
 
+## 📚 General Stats and lenguajes
 
 <!--START_SECTION:waka-->
 
