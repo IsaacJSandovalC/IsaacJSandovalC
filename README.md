@@ -64,21 +64,6 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 265 Contributions in the Year 2022
- > 
-> 📦 86.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-
-
- Last Updated on 07/11/2022
 <!--END_SECTION:waka-->
 
 
