@@ -34,6 +34,8 @@ Hola, soy Isaac Sandoval desarrollador Back-End Jr. Estudio en la Universidad In
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>  
 
+<br/>  
+
 
 ## Tecnologias por aprender o en proceso de aprendisaje:  
 <div align="left">  
