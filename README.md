@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100%" alt="Hello, I'm Anurag. I do open source!" src="logo.png">
+    <img width="100%" alt="Hello, I'm Anurag. I do open source!" src="logo.gif">
 </p>
 
 
