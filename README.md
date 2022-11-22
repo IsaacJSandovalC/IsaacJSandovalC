@@ -84,7 +84,7 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
       </td>
       <td align="Center">
         <p>CSS 3</p>
-        <a href="https://www.w3schools.com/css/" target="_blank"
+        <a href="https://es.wikipedia.org/wiki/CSS" target="_blank"
           ><img
             style="margin: 20px"
             src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
