@@ -171,7 +171,6 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
           height="50"
       /></a>
     </td>
-   
     <td align="Center">
         <p>JavaScript</p>
       <a href="https://www.javascript.com/" target="_blank"
