@@ -143,7 +143,7 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
       <a href="https://symfony.com/" target="_blank"
         ><img
           style="margin: 10px"
-          src="https://skillicons.dev/icons?i=symfony"
+          src="https://skillicons.dev/icons?i=symfony&theme=light"
           alt="Symfony"
           height="50"
       /></a>
@@ -193,7 +193,7 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
       <a href="https://expressjs.com/" target="_blank"
         ><img
           style="margin: 10px"
-          src="https://skillicons.dev/icons?i=express"
+          src="https://skillicons.dev/icons?i=express&theme=light"
           alt="Express.js"
           height="50"
       /></a>
