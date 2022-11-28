@@ -26,7 +26,6 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
 
 <br/>  
 
-
 ## 🧑🏽‍💻 Known tools:  
 <table>
     <div>
@@ -222,14 +221,14 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
   <tr>
     <td valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=IsaacJSandovalC&show_icons=true&count_private=true&hide_border=true&theme=dracula"
+        src="https://github-readme-stats.vercel.app/api?username=IsaacJSandovalC&show_icons=true&hide_border=true&theme=dracula"
         align="left"
         style="width: 100%"
       />
     </td>
     <td valign="top" width="43%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJSandovalC&hide_border=true&layout=compact&theme=dracula"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJSandovalC&layout=compact&hide_border=true&theme=dracula"
         align="left"
         style="width: 100%"
       />
