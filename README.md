@@ -128,6 +128,16 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
 ## 🖥️ Technologies to be learned or in the process of being learned:  
 <table> 
   <div>
+      <td align="Center">
+        <p>Flask</p>
+        <a href="https://flask.palletsprojects.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://skillicons.dev/icons?i=flask"
+            alt="Flask"
+            height="50"
+        /></a>
+      </td> 
     <td align="Center">
       <p>PHP</p>
       <a href="https://www.php.net/" target="_blank"
@@ -198,17 +208,6 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
           height="50"
       /></a>
     </td>
-    <!-- 
-      <td align="Center">
-        <a href="https://flask.palletsprojects.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src=""
-            alt="Flask"
-            height="50"
-        /></a>
-      </td> 
-  -->
     </table>
 </div>
 
