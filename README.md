@@ -179,7 +179,7 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
       /></a>
     </td>
     <td align="Center">
-        <p>React.JS</p>
+        <p>React.js</p>
       <a href="https://reactjs.org/" target="_blank"
         ><img
           style="margin: 10px"
@@ -189,7 +189,7 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
       /></a>
     </td>
     <td align="Center">
-        <p>Nodejs</p>
+        <p>Node.js</p>
       <a href="https://nodejs.org/" target="_blank"
         ><img
           style="margin: 10px"
@@ -199,7 +199,7 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
       /></a>
     </td>
     <td align="Center">
-        <p>Express.JS</p>
+        <p>Express.js</p>
       <a href="https://expressjs.com/" target="_blank"
         ><img
           style="margin: 10px"
