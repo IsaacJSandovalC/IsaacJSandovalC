@@ -61,7 +61,7 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
       </td>
       <td align="Center">
         <p>Git</p>
-        <a href="https://github.com/" target="_blank"
+        <a href="https://git-scm.com/" target="_blank"
           ><img
             style="margin: 20px"
             src="https://skillicons.dev/icons?i=git"
