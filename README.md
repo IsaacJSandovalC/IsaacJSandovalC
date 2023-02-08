@@ -90,16 +90,6 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
         /></a>
       </td>
       <td align="Center">
-        <p>Django</p>
-        <a href="https://www.djangoproject.com/" target="_blank"
-          ><img
-            style="margin: 20px"
-            src="https://skillicons.dev/icons?i=django"
-            alt="Django"
-            height="50"
-        /></a>
-      </td>
-      <td align="Center">
         <p>MySQL</p>
         <a href="https://www.mysql.com/" target="_blank"
           ><img
@@ -120,8 +110,6 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
       </td> -->
     </div>
   </table>
-
-
 <br/>  
 
 
@@ -139,79 +127,59 @@ Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad I
         /></a>
       </td> 
     <td align="Center">
-      <p>PHP</p>
-      <a href="https://www.php.net/" target="_blank"
+      <p>Spring</p>
+      <a href="https://spring.io" target="_blank"
         ><img
           style="margin: 10px"
-          src="https://skillicons.dev/icons?i=php"
-          alt="PHP"
+          src="https://skillicons.dev/icons?i=spring"
+          alt="spring"
           height="50"
       /></a>
     </td>
     <td align="Center">
-        <p>Symfony</p>
-      <a href="https://symfony.com/" target="_blank"
+      <p>MongoDB</p>
+      <a href="https://www.mongodb.com" target="_blank"
         ><img
           style="margin: 10px"
-          src="https://skillicons.dev/icons?i=symfony&theme=light"
-          alt="Symfony"
+          src="https://skillicons.dev/icons?i=mongodb"
+          alt="mongodb"
           height="50"
       /></a>
     </td>
     <td align="Center">
-        <p>Laravel</p>
-      <a href="https://laravel.com/" target="_blank"
+      <p>Docker</p>
+      <a href="https://www.docker.com" target="_blank"
         ><img
           style="margin: 10px"
-          src="https://skillicons.dev/icons?i=laravel"
-          alt="Laravel"
+          src="https://skillicons.dev/icons?i=docker"
+          alt="docker"
           height="50"
       /></a>
     </td>
     <td align="Center">
-        <p>JavaScript</p>
-      <a href="https://www.javascript.com/" target="_blank"
+      <p>Figma</p>
+      <a href="https://www.figma.com" target="_blank"
         ><img
           style="margin: 10px"
-          src="https://skillicons.dev/icons?i=js"
-          alt="JavaScript"
+          src="https://skillicons.dev/icons?i=figma"
+          alt="figma"
           height="50"
       /></a>
     </td>
     <td align="Center">
-        <p>React.js</p>
-      <a href="https://reactjs.org/" target="_blank"
+      <p>Azure</p>
+      <a href="https://azure.microsoft.com/es-es/" target="_blank"
         ><img
           style="margin: 10px"
-          src="https://skillicons.dev/icons?i=react"
-          alt="React"
-          height="50"
-      /></a>
-    </td>
-    <td align="Center">
-        <p>Node.js</p>
-      <a href="https://nodejs.org/" target="_blank"
-        ><img
-          style="margin: 10px"
-          src="https://skillicons.dev/icons?i=nodejs"
-          alt="Node.js"
-          height="50"
-      /></a>
-    </td>
-    <td align="Center">
-        <p>Express.js</p>
-      <a href="https://expressjs.com/" target="_blank"
-        ><img
-          style="margin: 10px"
-          src="https://skillicons.dev/icons?i=express&theme=light"
-          alt="Express.js"
+          src="https://skillicons.dev/icons?i=azure"
+          alt="azure"
           height="50"
       /></a>
     </td>
     </table>
 </div>
 
-<br />
+<br/>
 
 <br/>  
 
