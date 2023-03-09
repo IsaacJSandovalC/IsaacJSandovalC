@@ -22,7 +22,7 @@
 
 
 ## 😄 About me!  
-Hi, I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Universidad Interameriacana de Panamá a degree in Systems, I'm currently certifying as a Python developer and artificial intelligence. I plan to specialize in back end.
+I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican University of Panama a degree in Systems with an emphasis on networking and advanced software development, currently I'm certified as a Python developer and artificial intelligence. I plan to specialize in back end.
 
 <br/>  
 
