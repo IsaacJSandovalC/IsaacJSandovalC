@@ -48,6 +48,15 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
         /></a>
       </td>
       <td align="Center">
+        <p>Tensorflow</p>
+        <a href="https://www.tensorflow.org/" target="_blank"><img
+            style="margin: 20px"
+            src="https://skillicons.dev/icons?i=tensorflow"
+            alt="Tensorflow"
+            height="50"
+        /></a>
+      </td>
+      <td align="Center">
         <p>Java</p>
         <a href="https://www.java.com/" target="_blank"><img
             style="margin: 20px"
