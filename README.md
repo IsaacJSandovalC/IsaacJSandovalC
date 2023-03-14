@@ -30,9 +30,17 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
 <table>
     <div>
       <td align="Center">
+        <p>Linux</p>
+        <a href="https://www.linux.org" target="_blank"><img
+            style="margin: 20px"
+            src="https://skillicons.dev/icons?i=linux"
+            alt="Linux"
+            height="50"
+        /></a>
+      </td>
+      <td align="Center">
         <p>Python</p>
-        <a href="https://www.python.org/" target="_blank"
-          ><img
+        <a href="https://www.python.org/" target="_blank"><img
             style="margin: 20px"
             src="https://skillicons.dev/icons?i=py"
             alt="Python"
@@ -41,8 +49,7 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
       </td>
       <td align="Center">
         <p>Java</p>
-        <a href="https://www.java.com/" target="_blank"
-          ><img
+        <a href="https://www.java.com/" target="_blank"><img
             style="margin: 20px"
             src="https://skillicons.dev/icons?i=java"
             alt="Java"
@@ -51,8 +58,7 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
       </td>
       <td align="Center">
         <p>C++</p>
-        <a href="https://www.cplusplus.com/" target="_blank"
-          ><img
+        <a href="https://www.cplusplus.com/" target="_blank"><img
             style="margin: 20px"
             src="https://skillicons.dev/icons?i=cpp"
             alt="C++"
@@ -61,8 +67,7 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
       </td>
       <td align="Center">
         <p>Git</p>
-        <a href="https://git-scm.com/" target="_blank"
-          ><img
+        <a href="https://git-scm.com/" target="_blank"><img
             style="margin: 20px"
             src="https://skillicons.dev/icons?i=git"
             alt="Git"
@@ -71,8 +76,7 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
       </td>
       <td align="Center">
         <p>HTML 5</p>
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"
-          ><img
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img
             style="margin: 20px"
             src="https://skillicons.dev/icons?i=html"
             alt="HTML5"
@@ -81,8 +85,7 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
       </td>
       <td align="Center">
         <p>CSS 3</p>
-        <a href="https://es.wikipedia.org/wiki/CSS" target="_blank"
-          ><img
+        <a href="https://es.wikipedia.org/wiki/CSS" target="_blank"><img
             style="margin: 20px"
             src="https://skillicons.dev/icons?i=css"
             alt="CSS3"
@@ -91,8 +94,7 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
       </td>
       <td align="Center">
         <p>MySQL</p>
-        <a href="https://www.mysql.com/" target="_blank"
-          ><img
+        <a href="https://www.mysql.com/" target="_blank"><img
             style="margin: 20px"
             src="https://skillicons.dev/icons?i=mysql"
             alt="MySQL"
