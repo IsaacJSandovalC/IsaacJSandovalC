@@ -147,6 +147,16 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
       /></a>
     </td>
     <td align="Center">
+      <p>Redis</p>
+      <a href="https://redis.io" target="_blank"
+        ><img
+          style="margin: 10px"
+          src="https://skillicons.dev/icons?i=redis"
+          alt="redis"
+          height="50"
+      /></a>
+    </td>
+    <td align="Center">
       <p>Docker</p>
       <a href="https://www.docker.com" target="_blank"
         ><img
