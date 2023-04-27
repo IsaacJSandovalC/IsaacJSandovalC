@@ -96,9 +96,6 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
     </div>
   </table>
 <br/>  
-
-
-## 🖥️ Technologies to be learned or in the process of being learned:  
 <table>
     <div>
      <td align="Center">
