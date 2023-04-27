@@ -48,6 +48,16 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
         /></a>
       </td>
       <td align="Center">
+        <p>Flask</p>
+        <a href="https://flask.palletsprojects.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://skillicons.dev/icons?i=flask"
+            alt="Flask"
+            height="50"
+        /></a>
+      </td> 
+      <td align="Center">
         <p>Tensorflow</p>
         <a href="https://www.tensorflow.org/" target="_blank"><img
             style="margin: 20px"
@@ -83,7 +93,15 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
             height="50"
         /></a>
       </td>
-      <td align="Center">
+    </div>
+  </table>
+<br/>  
+
+
+## 🖥️ Technologies to be learned or in the process of being learned:  
+<table>
+    <div>
+     <td align="Center">
         <p>HTML 5</p>
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img
             style="margin: 20px"
@@ -110,43 +128,6 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
             height="50"
         /></a>
       </td>
-      <!-- <td align="Center">
-        <a href="https://www.apachefriends.org/" target="_blank"
-          ><img
-            style="margin: 20px"
-            src="https://profilinator.rishav.dev/skills-assets/xampp.png"
-            alt="XAMPP"
-            height="50"
-        /></a>
-      </td> -->
-    </div>
-  </table>
-<br/>  
-
-
-## 🖥️ Technologies to be learned or in the process of being learned:  
-<table> 
-  <div>
-      <td align="Center">
-        <p>Flask</p>
-        <a href="https://flask.palletsprojects.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://skillicons.dev/icons?i=flask"
-            alt="Flask"
-            height="50"
-        /></a>
-      </td> 
-    <td align="Center">
-      <p>Spring</p>
-      <a href="https://spring.io" target="_blank"
-        ><img
-          style="margin: 10px"
-          src="https://skillicons.dev/icons?i=spring"
-          alt="spring"
-          height="50"
-      /></a>
-    </td>
     <td align="Center">
       <p>MongoDB</p>
       <a href="https://www.mongodb.com" target="_blank"
@@ -197,12 +178,10 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
           height="50"
       /></a>
     </td>
-    </table>
-</div>
-
+    </div>
+</table>
 <br/>
-
-<br/>  
+<br/> 
 
 ## 🔥 Github Stats 
 <table>
