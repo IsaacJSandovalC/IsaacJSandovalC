@@ -58,15 +58,6 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
         /></a>
       </td> 
       <td align="Center">
-        <p>Tensorflow</p>
-        <a href="https://www.tensorflow.org/" target="_blank"><img
-            style="margin: 20px"
-            src="https://skillicons.dev/icons?i=tensorflow"
-            alt="Tensorflow"
-            height="50"
-        /></a>
-      </td>
-      <td align="Center">
         <p>Java</p>
         <a href="https://www.java.com/" target="_blank"><img
             style="margin: 20px"
@@ -93,12 +84,7 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
             height="50"
         /></a>
       </td>
-    </div>
-  </table>
-<br/>  
-<table>
-    <div>
-     <td align="Center">
+           <td align="Center">
         <p>HTML 5</p>
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img
             style="margin: 20px"
@@ -113,6 +99,20 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
             style="margin: 20px"
             src="https://skillicons.dev/icons?i=css"
             alt="CSS3"
+            height="50"
+        /></a>
+      </td>
+    </div>
+  </table>
+<br/>  
+<table>
+    <div>
+    <td align="Center">
+        <p>ORACLE</p>
+        <a href="https://www.oracle.com" target="_blank"><img
+            style="margin: 20px"
+            src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"
+            alt="ORACLE"
             height="50"
         /></a>
       </td>
@@ -156,12 +156,12 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
       /></a>
     </td>
     <td align="Center">
-      <p>Figma</p>
-      <a href="https://www.figma.com" target="_blank"
+      <p>Bash</p>
+      <a href="https://www.gnu.org/software/bash/" target="_blank"
         ><img
           style="margin: 10px"
-          src="https://skillicons.dev/icons?i=figma"
-          alt="figma"
+          src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"
+          alt="Bash"
           height="50"
       /></a>
     </td>
@@ -171,6 +171,16 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
         ><img
           style="margin: 10px"
           src="https://skillicons.dev/icons?i=azure"
+          alt="azure"
+          height="50"
+      /></a>
+    </td>
+    <td align="Center">
+      <p>AWS</p>
+      <a href="https://aws.amazon.com/es/" target="_blank"
+        ><img
+          style="margin: 10px"
+          src="https://skillicons.dev/icons?i=aws"
           alt="azure"
           height="50"
       /></a>
