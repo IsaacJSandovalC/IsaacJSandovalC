@@ -84,7 +84,7 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
             height="50"
         /></a>
       </td>
-           <td align="Center">
+      <td align="Center">
         <p>HTML 5</p>
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img
             style="margin: 20px"
@@ -102,18 +102,45 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
             height="50"
         /></a>
       </td>
+      <td align="Center">
+        <p>JavaScript</p>
+        <a href="https://www.javascript.com" target="_blank"><img
+            style="margin: 20px"
+            src="https://skillicons.dev/icons?i=js"
+            alt="js"
+            height="50"
+        /></a>
+      </td>
+       <td align="Center">
+        <p>React</p>
+        <a href="https://es.react.dev" target="_blank"><img
+            style="margin: 20px"
+            src="https://skillicons.dev/icons?i=react"
+            alt="react"
+            height="50"
+        /></a>
+      </td>
+      <td align="Center">
+        <p>Next.Js</p>
+        <a href="https://nextjs.org" target="_blank"><img
+            style="margin: 20px"
+            src="https://skillicons.dev/icons?i=nextjs"
+            alt="nextjs"
+            height="50"
+        /></a>
+      </td>
     </div>
   </table>
 <br/>  
 <table>
     <div>
     <td align="Center">
-        <p>ORACLE</p>
+        <p>Oracle</p>
         <a href="https://www.oracle.com" target="_blank"><img
             style="margin: 20px"
-            src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"
+            src=""
             alt="ORACLE"
-            height="50"
+            height="70"
         /></a>
       </td>
       <td align="Center">
@@ -160,7 +187,7 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
       <a href="https://www.gnu.org/software/bash/" target="_blank"
         ><img
           style="margin: 10px"
-          src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"
+          src="https://skillicons.dev/icons?i=bash"
           alt="Bash"
           height="50"
       /></a>
