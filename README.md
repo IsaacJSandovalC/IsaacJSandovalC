@@ -138,9 +138,9 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
         <p>Oracle</p>
         <a href="https://www.oracle.com" target="_blank"><img
             style="margin: 20px"
-            src=""
+            src="https://github.com/IsaacJSandovalC/IsaacJSandovalC/blob/master/oracle.png"
             alt="ORACLE"
-            height="70"
+            height="50"
         /></a>
       </td>
       <td align="Center">
