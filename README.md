@@ -244,18 +244,17 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
 
 ```text
 💬 Programming Languages: 
-Other                    1 min               ██████████████████░░░░░░░   73.52 % 
-Text                     0 secs              ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/07/2024 12:31:13 UTC
+ Last Updated on 06/07/2024 12:29:29 UTC
 <!--END_SECTION:waka-->
 
 
