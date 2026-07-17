@@ -240,8 +240,21 @@ I'm Isaac Sandoval Jr. Back-End developer. I'm studying at the Interamerican Uni
 ## 📚 General Stats and lenguajes
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 16/07/2026 13:58:21 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 17/07/2026 13:43:25 UTC
 <!--END_SECTION:waka-->
 
 
